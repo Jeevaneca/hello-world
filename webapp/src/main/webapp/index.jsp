@@ -4,6 +4,7 @@
   </div>
 
   <div class="container">
+    <h1> new user registerarion</h1> 
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
