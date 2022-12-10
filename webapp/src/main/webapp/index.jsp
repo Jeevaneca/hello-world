@@ -5,6 +5,7 @@
 
   <div class="container">
    <h1> new user registerarion</h1> 
+   <h1> hello</h1>
    <h1> if not login with user name and password</h1>
    <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
