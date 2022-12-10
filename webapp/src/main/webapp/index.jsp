@@ -4,8 +4,9 @@
   </div>
 
   <div class="container">
-    <h1> new user registerarion</h1> 
-    <label for="uname"><b>Username</b></label>
+   <h1> new user registerarion</h1> 
+   <h1> if not login with user name and password</h1>
+   <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
     <label for="psw"><b>Password</b></label>
