@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-   <h1> new user is jeevaneca</h1> 
+   <h1> new user is jeevaneca and jeevani</h1> 
    <h1> helloooooo  jeevan jeevani jeevani jeevani o</h1>
    <h1> if not login with user name and password</h1>
    <label for="uname"><b>Username</b></label>
